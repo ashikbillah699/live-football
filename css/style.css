@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Banner Part css */
+
+.container {
+    width: 1321px;
+    margin: 0 auto;
+}
+
+.banner_item {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    background: #161616;
+    margin-top: 30px;
+    border-radius: 30px;
+}
+
+.banner_text {
+    padding: 111px 50px 111px 106px;
+}
+
+.banner_text h1 {
+    font-size: 70px;
+    font-weight: bold;
+    color: #FFFFFF;
+    line-height: 80px;
+}
+
+.banner_text p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #FFFFFF;
+    line-height: 26px;
+    padding: 20px 0 30px;
+}
+
+.watch_live {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 20px;
+    background-color: #DD0000;
+    width: 186px;
+    height: 56px;
+    border-radius: 5px;
+}
+
+.watch_live a,
+i {
+    font-size: 20px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+.banner_img img {
+    height: 613px;
+    width: 581px;
+    padding-top: 30px;
+}
