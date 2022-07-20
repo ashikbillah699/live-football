@@ -364,4 +364,9 @@ i {
         padding-bottom: 20px;
     }
 
+    .footer_icon {
+        display: flex;
+        justify-content: center;
+    }
+
 }
