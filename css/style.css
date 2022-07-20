@@ -74,7 +74,7 @@ body {
     align-items: center;
     gap: 10px;
     padding: 20px;
-    background-color: #DD0000;
+    background-color: #b30e0e;
     width: 186px;
     height: 56px;
     border-radius: 5px;
@@ -136,7 +136,7 @@ i {
 }
 
 .match-schedul .blog {
-    background-color: #DD0000;
+    background-color: #b30e0e;
     color: #FFFFFF;
 }
 
@@ -200,7 +200,7 @@ i {
 
 .view_all a {
     padding: 12px 29px;
-    background-color: #DD0000;
+    background-color: #b30e0e;
     color: #FFFFFF;
     border-radius: 5px;
     margin-top: 50px;
