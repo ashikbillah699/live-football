@@ -182,6 +182,7 @@ i {
 
 #main_footer {
     margin-top: 32px;
+    background: #161616;
 }
 
 .footer_item {
@@ -214,6 +215,8 @@ i {
 
 
 /* responsive part  */
+
+/* tablet media */
 
 @media screen and (max-width: 992px) and (min-width: 769px) {
 
@@ -261,7 +264,7 @@ i {
     }
 
     .footer_text a {
-        padding: 0 80px;
+        padding: 0 40px;
         line-height: 50px;
     }
 
