@@ -182,12 +182,12 @@ i {
 
 #main_footer {
     margin-top: 32px;
-    background: #161616;
+    background-color: #161616;
 }
 
 .footer_item {
     text-align: center;
-    background: #161616;
+    background-color: #161616;
 }
 
 .footer_item h2 {
