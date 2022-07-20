@@ -114,6 +114,11 @@ i {
 
 .match-schedul .blog {
     background-color: #DD0000;
+    color: #FFFFFF;
+}
+
+.match-schedul .blog a {
+    color: #FFFFFF;
 }
 
 .transfer {
